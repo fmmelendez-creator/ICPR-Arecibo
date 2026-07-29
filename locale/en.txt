@@ -1,0 +1,29 @@
+#: locale=en
+
+## Media
+
+### Title
+panorama_228DA475_111D_5252_417B_269C6B78FA1D.label = 1_ fachada
+panorama_3F482E23_111D_51F6_41AD_4BA92695F4F2.label = 2_ pasillo
+panorama_3F483699_111D_7ED2_4173_FD95063C3228.label = 3_ vestíbulo
+panorama_3F48A0EC_111D_5272_4188_12ACE02BFB61.label = 4_ colecciones
+panorama_3F4FA9DA_111D_5256_4170_9AE47202A7B8.label = 5_ computadoras
+
+## Skin
+
+### Image
+Image_0435F73B_2D0F_4BF4_4181_65F86A8DAC19.url = skin/Image_0435F73B_2D0F_4BF4_4181_65F86A8DAC19_en.jpg
+
+### Label
+Label_22BB22F4_3075_D173_41BB_3ACDC6CCCC83.text = Biblioteca ICPR 
+Label_22BB32F4_3075_D173_4191_C8B45B85DEB8.text = Universitaria, Arecibo
+
+### Multiline Text
+HTMLText_29DD1615_3597_79DF_41C4_7593739E5260.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = ICPR Arecibo 
